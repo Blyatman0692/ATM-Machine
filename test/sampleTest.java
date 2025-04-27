@@ -7,6 +7,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 public class sampleTest {
     @Test
     public void sampleTest() {
+        Account account = new Account();
+
         assertTrue(true);
     }
 }
